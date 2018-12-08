@@ -1,5 +1,5 @@
 # spoti-lyric-with-os
-Shows lyric of the current playing song on Spotify Desktop App. Currently only works on Linux.
+Displays on GUI Window the lyrics of the song that is currently playing on Spotify Desktop App. Currently only works on Linux.
 
 ![example](https://i.imgur.com/KQPfTED.png)
 
